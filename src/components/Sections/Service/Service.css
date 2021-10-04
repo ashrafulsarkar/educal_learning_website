@@ -1,0 +1,20 @@
+#service-part {
+    padding: 100px 0;
+    background: #f3f3f3;
+}
+.site-title h4 {
+    font-size: 50px;
+    font-weight: 700;
+}
+.single-items {
+    box-shadow: 0 0 7px 1px #7070704d;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.service-details {
+    padding: 20px 15px;
+    text-align: center;
+}
+.service-details .site-btn .btn {
+    display: block;
+}

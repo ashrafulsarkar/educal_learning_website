@@ -1,0 +1,14 @@
+.headerPart {
+    background: #b8dde3;
+}
+.headerPart .nav {
+    float: right;
+}
+.headerPart .nav li a {
+    padding: 25px;
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    margin-right: 2px;
+}

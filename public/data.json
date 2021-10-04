@@ -1,0 +1,55 @@
+[
+    {   "key":"xynal01",
+        "courseName":"Become a product Manager learn the skills & job.",
+        "details":"Only a quid me old mucker squiffy tomfoolery grub cheers ruddy cor blimey guvnor in my flat, up the duff Eaton car boot up the kyver pardon you A bit of how's your father David skive off sloshed, don't get shirty with me chip shop vagabond crikey bugger Queen's English chap.",
+        "image":"./images/course-1.jpg"
+    },
+    {
+        "key":"xynal02",
+        "courseName":"Fundamentals of music theory Learn new",
+        "details":"Some definitions of the basic music theory terminology include music notation, pitch, scale, modes, rhythm, key signatures, intervals, melody, harmony, chords and chord progressions.",
+        "image":"./images/course-2.jpg"
+    },
+    {
+        "key":"xynal03",
+        "courseName":"Strategy law and organization Foundation",
+        "details":"You’ll learn how to build a Kubernetes cluster, and how to deploy and manage applications on it. Along the way, you’ll learn the internals of how Kubernetes works, as well as best-practices such as managing applications declaratively. By the end of the course you’ll have all the tools you need to get started with Kubernetes and take your career to the next level.",
+        "image":"./images/course-3.jpg"
+    },
+    {   
+        "key":"xynal04",
+        "courseName":"Creative writing through Storytelling",
+        "details":"At its core, storytelling is the art of using language, vocalization, and/or physical movement and gesture to reveal the elements and images of a story to a specific, live audience. A central, unique aspect of storytelling is its reliance on the audience to develop specific visual imagery and detail to complete and co-create the story.",
+        "image":"./images/course-4.jpg"
+    },
+    {
+        "key":"xynal05",
+        "courseName":"Become a product Manager learn the skills & job.",
+        "details":"Only a quid me old mucker squiffy tomfoolery grub cheers ruddy cor blimey guvnor in my flat, up the duff Eaton car boot up the kyver pardon you A bit of how's your father David skive off sloshed, don't get shirty with me chip shop vagabond crikey bugger Queen's English chap.",
+        "image":"./images/course-5.jpg"
+    },
+    {
+        "key":"xynal06",
+        "courseName":"The business Intelligence analyst Course 2022",
+        "details":"You’ll learn how to build a Kubernetes cluster, and how to deploy and manage applications on it. Along the way, you’ll learn the internals of how Kubernetes works, as well as best-practices such as managing applications declaratively. By the end of the course you’ll have all the tools you need to get started with Kubernetes and take your career to the next level.",
+        "image":"./images/course-6.jpg"
+    },
+    {
+        "key":"xynal07",
+        "courseName":"Build your media and Public presence",
+        "details":"At its core, storytelling is the art of using language, vocalization, and/or physical movement and gesture to reveal the elements and images of a story to a specific, live audience. A central, unique aspect of storytelling is its reliance on the audience to develop specific visual imagery and detail to complete and co-create the story.",
+        "image":"./images/course-7.jpg"
+    },
+    {
+        "key":"xynal08",
+        "courseName":"Creative writing through Storytelling",
+        "details":"Only a quid me old mucker squiffy tomfoolery grub cheers ruddy cor blimey guvnor in my flat, up the duff Eaton car boot up the kyver pardon you A bit of how's your father David skive off sloshed, don't get shirty with me chip shop vagabond crikey bugger Queen's English chap.",
+        "image":"./images/course-8.jpg"
+    },
+    {
+        "key":"xynal09",
+        "courseName":"Strategy law and organization Foundation",
+        "details":"Only a quid me old mucker squiffy tomfoolery grub cheers ruddy cor blimey guvnor in my flat, up the duff Eaton car boot up the kyver pardon you A bit of how's your father David skive off sloshed, don't get shirty with me chip shop vagabond crikey bugger Queen's English chap.",
+        "image":"./images/course-9.jpg"
+    }
+]
